@@ -1,93 +1,222 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&&color=0:0000FF,100:a82da8&text=Dive%20In&reversal=false&textBg=false&fontColor=E7E7E7"/>
-</p>
-<h3 align="center">ML Engineer | Data Science Researcher | Developer </h3>
-<p>
-  
-  - 🔭 I’m currently working on **a travel advisor app** that uses LangChain for seamless itinerary planning  
-  - 🛠️ My recent projects include **fine-tuning LLMs**, developing end-to-end **ML pipelines**, and coding **chatbots**  
-  - 💡  When I’m not coding, you’ll find me **playing Dungeons & Dragons, traveling, or laying out board games**
+###
 
-</p>
+<h1 align="center">The only way to do great work is to love what you do</h1>
 
-<h3 align="left">My Toolkit:</h3>
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </a> 
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-    </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-    </a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://eduramp.in/wp-content/uploads/2024/01/Flask.png" alt="flask" width="40" height="40"/> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-    </a> 
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/> 
-    </a> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-    </a> 
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-    </a> 
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-    </a> 
-    <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a> 
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-    </a> 
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-    </a> 
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-</p>
+###
 
+<div align="left">
+👋 Dear Followers<br>
+I am here to challenge advanced technical problems in crypto trading and Telegram bot/mini app projects.
+Doing several Solana/Ethereum/Base trading Telegram bot development, I got precise sense of how to trade crypto currencies<br>
+If you really want to build your own successful trading bot, I will share my golden repos and contribute to your great idea <br>
+Feel free to reach out me for consulting about your new idea, it is always an honor<br> Thanks
+</div>
 
+###
 
-<h1 align="center">
-  Check my pinned projects below 👇
-</h1>
+<h2 align="center">Trending Software Tools & Programming Languages</h2>
+
+###
+
+<br clear="both" />
+
+<table align="center">
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/js-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/ts-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/react-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />React
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=nextjs"
+        width="65"
+        height="65"
+        alt="NextJS" />
+      <br />NextJS
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=nodejs"
+        width="65"
+        height="65"
+        alt="NodeJS" />
+      <br />NodeJS
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=express"
+        width="65"
+        height="65"
+        alt="Express" />
+      <br />Express
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=mongodb"
+        width="65"
+        height="65"
+        alt="MongoDB" />
+      <br />MongoDB
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/mysql-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=html"
+        width="65"
+        height="65"
+        alt="HTML5" />
+      <br />HTML5
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/sass-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Sass
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=tailwind"
+        width="65"
+        height="65"
+        alt="tailwind" />
+      <br />Tailwind
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=bootstrap"
+        width="65"
+        height="65"
+        alt="bootstrap" />
+        <br />Bootstrap
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=jquery"
+        width="65"
+        height="65"
+        alt="jQuery" />
+      <br />jQuery
+    </td>
+    <td align="center" width="128">
+      <img
+      src="https://skillicons.dev/icons?i=php"
+      width="65"
+      height="65"
+        alt="PHP" />
+      <br />PHP
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/webpack-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Webpack
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=vscode"
+        width="65"
+        height="65"
+        alt="VsCode" />
+      <br />VsCode
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/aws-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />AWS
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/github-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Github
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+        width="65"
+        height="65"
+        alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=go"
+        width="65"
+        height="65"
+        alt="MongoDB" />
+      <br />Go
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=ruby"
+        width="65"
+        height="65"
+        alt="Ruby" />
+      <br />Ruby
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=postgres"
+        width="65"
+        height="65"
+        alt="PostgreSQL" />
+      <br />PostgreSQL
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=fastapi"
+        width="65"
+        height="65"
+        alt="FastAPI" />
+      <br />FastAPI
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/docker-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Docker
+    </td>
+  </tr>
+</table>
